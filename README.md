@@ -6,6 +6,6 @@ This project consist of two stage:
 
 - [X] Train the model
 - [X] Convert the model to Tflite model  
-- [ ] Test the model and write report docs
+- [X] Test the model and write report docs
 - [X] Develop a mobile app using Flutter framework
 - [X] Publish mobile app project file on Github: Can be found at ==> https://github.com/ferdi12-tr/AgeGenderClassificationFlutter/tree/master
